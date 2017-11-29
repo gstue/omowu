@@ -1,0 +1,3 @@
+rootProject.name = 'omowu'
+
+include ':app'
